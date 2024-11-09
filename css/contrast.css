@@ -1,0 +1,135 @@
+.high_contrast{background-color: black;}
+.high_contrast h1,.high_contrast h2,.high_contrast h3,.high_contrast h4,.high_contrast h5,.high_contrast h6,.high_contrast p,.high_contrast ul,.high_contrast label,.high_contrast tr
+{
+    color: #fff;
+}
+.high_contrast .incd{color: #fff;}
+.high_contrast img{filter: grayscale(100%);}
+.high_contrast .sitepages_one .content_div p{color: #fff!important;}
+.high_contrast footer{background-color: black!important;border-top: 2px solid #fff!important;}
+.high_contrast footer a{color: #fff;}
+.high_contrast .sitepages_one .content_div,.high_contrast .sitepages_two .content_div{background-color: black!important;border: 1px solid #fff;}
+.high_contrast .change_layout{background-color: black;border-bottom: 1px solid #fff;}
+.high_contrast .change_layout a{color: #fff;}
+.high_contrast .change_layout .font_col ul li{background-color: black;border: 1px solid #fff;}
+.high_contrast .alternate_column .row:nth-child(even){background-color: black;}
+.high_contrast .dept_list .navig_list ul li a{color: #fff;}
+.high_contrast .btn-outline-light{color: #fff!important;}
+
+.high_contrast .mid .nav-pills .nav-link{background-color: #fff;}
+.high_contrast .stellarnav.dark ul ul li{background-color: black;}
+.high_contrast .stellarnav.dark ul ul li a{color: #fff;}
+.high_contrast .govscheme li a{color: #fff;}
+.high_contrast .btn-primary,.high_contrast .btn-secondary{color: #fff;border: 1px solid #fff;}
+.high_contrast .btn-primary:hover,.high_contrast .btn-secondary:hover{background-color: grey!important;}
+.high_contrast .btn-primary:before{background-color: grey;}
+.high_contrast .card{background-color: black;border: 1px solid #fff;}
+.high_contrast .contact_div h6 span{color: #fff;}
+.high_contrast .contact_div ul li span{color: #fff;}
+.high_contrast .contact_div ul li {color: #fff;}
+.high_contrast .contact_div{background-color: black;border: 1px solid #fff;}
+.high_contrast .mid ol li{color: #fff;}
+.high_contrast .bg1{background-color: black;border: 1px solid #fff;}
+.high_contrast .proj_div ul{color: #fff;}
+.high_contrast .sitepages_one .site_cols{background-color: grey;}
+.high_contrast .sitepages_one .card-footer{background-color: grey;}
+.high_contrast .sitepages_two .site_col{background-color: grey;}
+.high_contrast .sitepages_two .site_cols{background-color: grey;}
+.high_contrast .sitepages_two .site_cols{background-color: grey;}
+.high_contrast .dept_list .navig_list ul li{border-bottom: 1px solid #666!important;}
+
+.high_contrast .notification{background-color: black;border-top: 1px solid #fff;border-bottom: 1px solid #fff;}
+.high_contrast .notification .marquee_text span{color: #fff;}
+.high_contrast .menumain{background-color: grey;}
+.high_contrast .content_div ol li{color: #fff;}
+.high_contrast .mid h2 strong{background-color: grey;}
+.high_contrast .mid h2{border-bottom: 2px solid grey;}
+.high_contrast .contact_div ul li i{color: #fff;}
+.high_contrast .event_card .venue_div{color: #fff;}
+.high_contrast .mid a{color: #fff;}
+.high_contrast .event_card .venue_div i{color: #fff;}
+.high_contrast .event_card .date_div{background-color: grey;}
+.high_contrast #backto-top{background-color: grey;color: #333;}
+.high_contrast .notification .marquee_text span a{color: #fff;}
+.high_contrast .notification .notification_head i{color: #fff;}
+.high_contrast .dept_list .navig_list ul{background-color: grey;}
+.high_contrast .dept_list .navig_list ul .active{background-color: #333;}
+.high_contrast .mid .nav-pills .nav-link.active{background-color: #333;}
+.high_contrast .carousel-indicators [data-bs-target].active{background-color: #fff!important;}
+.high_contrast table.dataTable thead > tr > th.sorting,.high_contrast table.dataTable thead > tr > th.sorting_asc{color: #fff;}
+.high_contrast .even{background-color: #a2a2a2;}
+.high_contrast .tenders .btn-primary{background-color: grey;}
+.high_contrast .tenders .btn-outline-light{background-color: grey;border: 1px solid #fff;}
+.high_contrast.dept_list .navig_list ul li{border-bottom: 1px solid #fff!important;}
+.high_contrast .notification .notification_head{background-color: grey;}
+.high_contrast .table-striped a{color: #666!important;}
+.high_contrast .table-striped>tbody>tr:nth-of-type(odd)>*{color: #fff!important;}
+.high_contrast .links li p{color: #111;}
+.high_contrast .links .card{border: transparent;}
+.high_contrast .links .list-group-item strong{color: #111;}
+
+.high_contrast .dept_list .navig_list ul li:hover{background-color: #333;}
+
+
+.high_contrast .notification .notification_head::before
+{
+    content: "";
+    position: absolute;
+    width: 1000px;
+    right: 100%;
+    background: grey!important;
+    height: 48px;
+    margin-top: -14px;
+}
+.high_contrast .mid h2 strong::after
+{
+    content: "";
+    position: absolute;
+    right: -20px;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 20px solid grey!important;
+    border-top: 34px solid transparent;
+}
+.high_contrast .notification .marquee_text span::before
+{
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f111";
+    font-size: 8px;
+    color: #fff;
+    margin: 5px;
+    position: relative;
+    top: -2px;
+}
+.high_contrast .navig_list li:hover{background-color: #333;}
+.high_contrast .stellarnav li.has-sub > a:after{border-top:6px solid #fff}
+.high_contrast .dataTables_wrapper .dataTables_paginate .paginate_button:hover{background-color: grey!important;color: #111!important;border:1px solid transparent;}
+.high_contrast  .stellarnav.dark ul ul li a:hover{background-color: #333;}
+.high_contrast .scrollbox:hover::-webkit-scrollbar-thumb{background-color: #fff;}
+.high_contrast .sitepages_one .card{border: transparent;}
+
+.high_contrast footer a:hover{color: #666;}
+
+.high_contrast .whitebox{background-color: #000;}
+.high_contrast .whitebox h2{background-color: grey;}
+.high_contrast .tick ul li:before{color: #fff;}
+.high_contrast .whitebox strong{color: #fff;}
+.high_contrast .directorate_pic{border: 1px solid #fff;}
+.high_contrast .directorate_pic i{color: #fff;}
+.high_contrast .nav-tabs .nav-link{color: #fff;border: 1px solid #fff;}
+.high_contrast .nav-tabs .nav-link.active{background-color:grey;color: #fff;border: 1px solid #fff;}
+.high_contrast .maildiv a{border: 1px solid #fff;}
+.high_contrast .maildiv i{color:#fff;}
+.high_contrast table.dataTable thead th{color:#fff;}
+.high_contrast .govscheme ul li:before{color:#fff;}
+.high_contrast .upcoming_event_blocks i {color: #fff;}
+.high_contrast a.readmore, .high_contrast .date_div, 
+.high_contrast .venue_div{color: #fff!important;}
+.high_contrast .dataTables_wrapper .dataTables_paginate .paginate_button {
+color: #fff !important;}
+.high_contrast .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+border: 1px solid #fff !important;}
+.high_contrast .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+border: 1px solid #fff !important;background: #fff !important;}

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Institution/Academy-Basumati - Information and Cultural Affairs Department</title>
+    <?php include '../include/header.php'; ?>
+</head>
+
+<body>
+
+    <?php include '../include/navigation.php' ?>
+
+
+
+
+    <!-- mid -->
+    <div class="mid">
+        <div class="sectiongap">
+            <div class="dept_list academy">
+                <div class="container">
+                    <h2><strong>Basumati Corporation Limited</strong></h2>
+                    <div class="row">
+                        <div class="col-md-3 col-lg-2">
+                            <div class="navig_list sticky_div">
+                                <ul>
+
+                                    <ul>
+
+                                        <li>
+                                            <a
+                                                href="<?php echo $base_url; ?>institution-academy/information.php">Information</a>
+                                        </li>
+                                        <li>
+                                            <a
+                                                href="<?php echo $base_url; ?>institution-academy/culture.php">Culture</a>
+                                        </li>
+                                        <li>
+                                            <a href="<?php echo $base_url; ?>institution-academy/film.php">Film</a>
+                                        </li>
+                                        <li>
+                                            <a
+                                                href="<?php echo $base_url; ?>institution-academy/archaeology.php">Archaeology</a>
+                                        </li>
+                                        <li class="active">
+                                            <a
+                                                href="<?php echo $base_url; ?>institution-academy/basumati.php">Basumati Corp. Ltd.</a>
+                                        </li>
+
+                                    </ul>
+
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-9 col-lg-10">
+
+                            <h4><u>Name of the Offices under Basumati Corporation Limited:</u></h4>
+
+                            <div class="datatable mt-3 mb-5">
+                                <table id="insitute-basu" class="display" style="width:100%">
+                                    <thead>
+                                        <tr>
+                                            <th class="extra_width">Office Name</th>
+                                            <th>Officers Name</th>
+                                            <th>Designation</th>
+                                            <th>E-mail ID</th>
+                                            <th>Contact No.</th>
+                                            <th>Address</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Basumati Corporation Limited</td>
+                                            <td>Shri Debasis Biswas, WBCS (Exe.)</td>
+                                            <td>Managing Director, Basumati Corporation Limited</td>
+                                            <td><a href="mailto:basumati.corp@gmail.com">basumati.corp@gmail.com</a></td>
+                                            <td>(M) 9434176487</td>
+                                            <td>166, B.B. Ganguly Street, Kolkata-700012</td>
+                                        </tr>
+
+                                    </tbody>
+                                </table>
+
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+    <!-- /mid -->
+
+
+
+
+
+    <?php include '../include/footer.php' ?>
+
+</body>
+
+</html>

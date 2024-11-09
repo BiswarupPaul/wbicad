@@ -1,0 +1,1336 @@
+Received post_order_ids: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Database error: SQLSTATE[HY000] [1045] Access denied for user 'busfaqwd_wbicadLiveU'@'localhost' (using password: YES)
+Received post_order_ids: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Database error: SQLSTATE[HY000] [1045] Access denied for user 'busfaqwd_wbicadLiveU'@'localhost' (using password: YES)
+Received post_order_ids: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_ids: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_ids: Array
+(
+    [0] => 1
+    [1] => 3
+    [2] => 2
+    [3] => 4
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 3, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_ids: Array
+(
+    [0] => 4
+    [1] => 1
+    [2] => 2
+    [3] => 3
+)
+
+Updated ID: 4, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_ids: Array
+(
+    [0] => 4
+    [1] => 1
+    [2] => 2
+    [3] => 3
+)
+
+Updated ID: 4, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_ids: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 3
+    [2] => 2
+    [3] => 4
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 3, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 3
+    [2] => 2
+    [3] => 4
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 3, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 4
+    [3] => 3
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 2, New Order: 2
+Updated ID: 4, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 4
+    [3] => 3
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 2, New Order: 2
+Updated ID: 4, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 4
+    [3] => 3
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 2, New Order: 2
+Updated ID: 4, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 4
+    [3] => 3
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 2, New Order: 2
+Updated ID: 4, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 3
+    [2] => 2
+    [3] => 4
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 3, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 4
+    [3] => 3
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 2, New Order: 2
+Updated ID: 4, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 3
+    [2] => 1
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 3, New Order: 2
+Updated ID: 1, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 3
+    [2] => 2
+    [3] => 4
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 3, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 4
+    [1] => 1
+    [2] => 2
+    [3] => 3
+)
+
+Updated ID: 4, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 4
+    [2] => 2
+    [3] => 3
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 4, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 2, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 4
+    [3] => 3
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 2, New Order: 2
+Updated ID: 4, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 4
+    [3] => 3
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 4, New Order: 3
+Updated ID: 3, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 3
+    [2] => 1
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 3, New Order: 2
+Updated ID: 1, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 3
+    [2] => 2
+    [3] => 4
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 3, New Order: 2
+Updated ID: 2, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 4
+    [3] => 3
+)
+
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 3
+    [2] => 4
+    [3] => 2
+)
+
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 3
+    [2] => 4
+    [3] => 2
+)
+
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 1, New Order: 1
+Updated ID: 2, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_order_no: Array
+(
+    [0] => 2
+    [1] => 1
+    [2] => 3
+    [3] => 4
+)
+
+Updated ID: 2, New Order: 1
+Updated ID: 1, New Order: 2
+Updated ID: 3, New Order: 3
+Updated ID: 4, New Order: 4
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_category] => Upcoming Events
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Active
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_category] => Upcoming Events
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Active
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_category] => Past Events
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Active
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_category] => Upcoming Events
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Active
+            [order] => 4
+        )
+
+)
+
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_category] => Upcoming Events
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Active
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_category] => Upcoming Events
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Active
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_category] => Past Events
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Active
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_category] => Upcoming Events
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Active
+            [order] => 4
+        )
+
+)
+
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_category] => Upcoming Events
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Active
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_category] => Upcoming Events
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Active
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_category] => Past Events
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Active
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_category] => Upcoming Events
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Active
+            [order] => 4
+        )
+
+)
+
+Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_category' in 'field list'
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_category] => Upcoming Events
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Active
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_category] => Upcoming Events
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Active
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_category] => Past Events
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Active
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_category] => Upcoming Events
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Active
+            [order] => 4
+        )
+
+)
+
+Updated ID: 2, Order: 1, Title: 7th National Theatre Festival
+Updated ID: 1, Order: 2, Title: Uttam Kumar Smarane
+Updated ID: 3, Order: 3, Title: Kothaye O Gaane
+Updated ID: 4, Order: 4, Title: Kabiguru Smarone
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_category] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_category] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_category] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_category] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_category' in 'field list'
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 2, Order: 1, Title: 7th National Theatre Festival
+Updated ID: 1, Order: 2, Title: Uttam Kumar Smarane
+Updated ID: 3, Order: 3, Title: Kothaye O Gaane
+Updated ID: 4, Order: 4, Title: Kabiguru Smarone
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => Warning:  Undefined array key 0 in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 85
+
+Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\wbicad\wb-admin\views\events\list-events.php on line 87
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 2, Order: 1, Title: 7th National Theatre Festival
+Updated ID: 1, Order: 2, Title: Uttam Kumar Smarane
+Updated ID: 3, Order: 3, Title: Kothaye O Gaane
+Updated ID: 4, Order: 4, Title: Kabiguru Smarone
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => 
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => 
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => 
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => 
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 3, Order: 1, Title: Kothaye O Gaane
+Updated ID: 1, Order: 2, Title: Uttam Kumar Smarane
+Updated ID: 2, Order: 3, Title: 7th National Theatre Festival
+Updated ID: 4, Order: 4, Title: Kabiguru Smarone
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => 
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => 
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => 
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => 
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 4, Order: 1, Title: Kabiguru Smarone
+Updated ID: 3, Order: 2, Title: Kothaye O Gaane
+Updated ID: 1, Order: 3, Title: Uttam Kumar Smarane
+Updated ID: 2, Order: 4, Title: 7th National Theatre Festival
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => 
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => 
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => 
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => 
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 2, Order: 1, Title: 7th National Theatre Festival
+Updated ID: 4, Order: 2, Title: Kabiguru Smarone
+Updated ID: 3, Order: 3, Title: Kothaye O Gaane
+Updated ID: 1, Order: 4, Title: Uttam Kumar Smarane
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => 
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => 
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => 
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => 
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 2, Order: 1, Title: 7th National Theatre Festival
+Updated ID: 3, Order: 2, Title: Kothaye O Gaane
+Updated ID: 4, Order: 3, Title: Kabiguru Smarone
+Updated ID: 1, Order: 4, Title: Uttam Kumar Smarane
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => 
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => 
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => 
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => 
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 1, Order: 1, Title: Uttam Kumar Smarane
+Updated ID: 2, Order: 2, Title: 7th National Theatre Festival
+Updated ID: 3, Order: 3, Title: Kothaye O Gaane
+Updated ID: 4, Order: 4, Title: Kabiguru Smarone
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => 
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => 
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => 
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => 
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 4, Order: 1, Title: Kabiguru Smarone
+Updated ID: 1, Order: 2, Title: Uttam Kumar Smarane
+Updated ID: 2, Order: 3, Title: 7th National Theatre Festival
+Updated ID: 3, Order: 4, Title: Kothaye O Gaane
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => 
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => 
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => 
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => 
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 2, Order: 1, Title: 7th National Theatre Festival
+Updated ID: 3, Order: 2, Title: Kothaye O Gaane
+Updated ID: 4, Order: 3, Title: Kabiguru Smarone
+Updated ID: 1, Order: 4, Title: Uttam Kumar Smarane
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => 
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => 
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => 
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => 
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 2, Order: 1, Title: 7th National Theatre Festival
+Updated ID: 1, Order: 2, Title: Uttam Kumar Smarane
+Updated ID: 3, Order: 3, Title: Kothaye O Gaane
+Updated ID: 4, Order: 4, Title: Kabiguru Smarone
+Received post_data: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Uttam Kumar Smarane
+            [event_id] => 
+            [created_date] => 2024-07-22 19:31:15
+            [status] => Deactive
+            [order] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => 7th National Theatre Festival
+            [event_id] => 
+            [created_date] => 2024-07-22 14:33:04
+            [status] => Deactive
+            [order] => 2
+        )
+
+    [2] => Array
+        (
+            [id] => 4
+            [title] => Kabiguru Smarone
+            [event_id] => 
+            [created_date] => 2024-08-06 16:11:44
+            [status] => Deactive
+            [order] => 3
+        )
+
+    [3] => Array
+        (
+            [id] => 3
+            [title] => Kothaye O Gaane
+            [event_id] => 
+            [created_date] => 2024-07-19 16:56:37
+            [status] => Deactive
+            [order] => 4
+        )
+
+)
+
+Updated ID: 1, Order: 1, Title: Uttam Kumar Smarane
+Updated ID: 2, Order: 2, Title: 7th National Theatre Festival
+Updated ID: 4, Order: 3, Title: Kabiguru Smarone
+Updated ID: 3, Order: 4, Title: Kothaye O Gaane

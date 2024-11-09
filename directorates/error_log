@@ -1,0 +1,91 @@
+[03-May-2024 07:24:39 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/film.php on line 76
+[03-May-2024 07:24:39 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/film.php on line 76
+[03-May-2024 07:24:39 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/film.php on line 76
+[03-May-2024 07:25:56 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/film.php on line 76
+[03-May-2024 07:25:56 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/film.php on line 76
+[03-May-2024 07:25:56 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/film.php on line 76
+[03-May-2024 07:28:19 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/information.php on line 75
+[03-May-2024 07:28:19 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/information.php on line 75
+[03-May-2024 07:28:46 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/archaeology.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[03-May-2024 07:50:29 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home4/busfaqwd/public_html/wbicad.in/dev/wbicad/directorates/culture.php on line 75
+[26-Jul-2024 10:38:15 UTC] PHP Warning:  Undefined array key 5 in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:38:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:38:20 UTC] PHP Warning:  Undefined array key 5 in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:38:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:40:55 UTC] PHP Warning:  Undefined array key 5 in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:41:02 UTC] PHP Warning:  Undefined array key 5 in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:41:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:41:02 UTC] PHP Warning:  Undefined array key 5 in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:41:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:41:02 UTC] PHP Warning:  Undefined array key 5 in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:41:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:41:35 UTC] PHP Warning:  Undefined array key 5 in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:41:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/busfaqwd/public_html/wbicad.in/directorates/information.php on line 5
+[26-Jul-2024 10:48:51 UTC] PHP Warning:  Undefined variable $sql in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[26-Jul-2024 10:48:51 UTC] PHP Fatal error:  Uncaught ValueError: PDO::query(): Argument #1 ($query) cannot be empty in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php:532
+Stack trace:
+#0 /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php(532): PDO->query('')
+#1 /home4/busfaqwd/public_html/wbicad.in/directorates/archaeology.php(3): Common->get_post('wbinc_directora...')
+#2 {main}
+  thrown in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[26-Jul-2024 10:48:52 UTC] PHP Warning:  Undefined variable $sql in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[26-Jul-2024 10:48:52 UTC] PHP Fatal error:  Uncaught ValueError: PDO::query(): Argument #1 ($query) cannot be empty in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php:532
+Stack trace:
+#0 /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php(532): PDO->query('')
+#1 /home4/busfaqwd/public_html/wbicad.in/directorates/information.php(3): Common->get_post('wbinc_directora...')
+#2 {main}
+  thrown in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[26-Jul-2024 10:48:53 UTC] PHP Warning:  Undefined variable $sql in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[26-Jul-2024 10:48:53 UTC] PHP Fatal error:  Uncaught ValueError: PDO::query(): Argument #1 ($query) cannot be empty in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php:532
+Stack trace:
+#0 /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php(532): PDO->query('')
+#1 /home4/busfaqwd/public_html/wbicad.in/directorates/archaeology.php(3): Common->get_post('wbinc_directora...')
+#2 {main}
+  thrown in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[26-Jul-2024 10:48:54 UTC] PHP Warning:  Undefined variable $sql in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[26-Jul-2024 10:48:54 UTC] PHP Fatal error:  Uncaught ValueError: PDO::query(): Argument #1 ($query) cannot be empty in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php:532
+Stack trace:
+#0 /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php(532): PDO->query('')
+#1 /home4/busfaqwd/public_html/wbicad.in/directorates/information.php(3): Common->get_post('wbinc_directora...')
+#2 {main}
+  thrown in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[26-Jul-2024 10:48:57 UTC] PHP Warning:  Undefined variable $sql in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[26-Jul-2024 10:48:57 UTC] PHP Fatal error:  Uncaught ValueError: PDO::query(): Argument #1 ($query) cannot be empty in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php:532
+Stack trace:
+#0 /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php(532): PDO->query('')
+#1 /home4/busfaqwd/public_html/wbicad.in/directorates/archaeology.php(3): Common->get_post('wbinc_directora...')
+#2 {main}
+  thrown in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 532
+[03-Aug-2024 07:09:37 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "function" or "const" in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 2522
+[03-Aug-2024 07:10:06 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "function" or "const" in /home4/busfaqwd/public_html/wbicad.in/wb-admin/classes/Common.class.php on line 2522
+[03-Aug-2024 07:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "update-order" not found in /home4/busfaqwd/public_html/wbicad.in/wb-admin/autoloader.php:26
+Stack trace:
+#0 /home4/busfaqwd/public_html/wbicad.in/directorates/film.php(2): include()
+#1 {main}
+  thrown in /home4/busfaqwd/public_html/wbicad.in/wb-admin/autoloader.php on line 26
+[03-Aug-2024 08:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "update-order" not found in /home4/busfaqwd/public_html/wbicad.in/wb-admin/autoloader.php:26
+Stack trace:
+#0 /home4/busfaqwd/public_html/wbicad.in/directorates/culture.php(2): include()
+#1 {main}
+  thrown in /home4/busfaqwd/public_html/wbicad.in/wb-admin/autoloader.php on line 26
+[03-Aug-2024 08:02:36 UTC] PHP Fatal error:  Uncaught Error: Class "update-order" not found in /home4/busfaqwd/public_html/wbicad.in/wb-admin/autoloader.php:26
+Stack trace:
+#0 /home4/busfaqwd/public_html/wbicad.in/directorates/culture.php(2): include()
+#1 {main}
+  thrown in /home4/busfaqwd/public_html/wbicad.in/wb-admin/autoloader.php on line 26
+[03-Aug-2024 08:28:06 UTC] PHP Fatal error:  Uncaught Error: Class "update-order" not found in /home4/busfaqwd/public_html/wbicad.in/wb-admin/autoloader.php:26
+Stack trace:
+#0 /home4/busfaqwd/public_html/wbicad.in/directorates/culture.php(2): include()
+#1 {main}
+  thrown in /home4/busfaqwd/public_html/wbicad.in/wb-admin/autoloader.php on line 26
