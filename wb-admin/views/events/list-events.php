@@ -7,7 +7,7 @@
  */
 
 $get_post = $Common->get_post(EVENTS);
-$ecategory  = $Common->get_post(ECATEGORY);
+
 ?>
 
 
@@ -72,9 +72,9 @@ $ecategory  = $Common->get_post(ECATEGORY);
 
                 ?>
 
-                <tr id="<?php echo $post['ID'] ?>" data-post-id="<?php echo $post['ID'] ?>">
+                <tr id="<?php echo $post['ID']; ?>" data-post-id="<?php echo $post['ID']; ?>">
 
-                    <td><?php echo $i; ?>.</td>
+                    <td><?php echo $post['post_order_no']; ?>.</td>
 
                      <td><?php echo $post['title']; ?></td>
 
@@ -82,9 +82,9 @@ $ecategory  = $Common->get_post(ECATEGORY);
 
                         <?php
 
-                        //$ecategory = $Common->get_post(ECATEGORY, $post['event_id'])[0];
+                        $ecategory = $Common->get_post(ECATEGORY, $post['event_id'])[0];
 
-                       // echo $ecategory['event_category'];
+                        echo $ecategory['event_category'];
 
                         ?>
 
@@ -157,7 +157,6 @@ $ecategory  = $Common->get_post(ECATEGORY);
         });
 
         return false;
-
     }
 
 </script>
@@ -174,38 +173,23 @@ $(document).ready(function() {
     $("#post_list").sortable({
         placeholder: "ui-state-highlight",
         update: function(event, ui) {
-            var post_data = [];
+            var post_order_no = [];
             $('#post_list tr').each(function(index) {
-                var post_id = $(this).data("post-id");
-                var title = $(this).find('td').eq(1).text().trim();  // Get the title from the table row
-                var event_id = $(this).find('td').eq(2).text().trim();  // Get the event category
-                var created_date = $(this).find('td').eq(4).text().trim();  // Get the published date
-                var status = $(this).find('td').eq(5).find('span').text().trim();  // Get the status (Active/Deactive)
-
-                post_data.push({
-                    id: post_id,
-                    title: title,
-                    event_id: event_id,
-                    created_date: created_date,
-                    status: status,
-                    order: index + 1  // New sorting order (starting from 1)
-                });
-
-                // Update Sorting Number in the UI
-                $(this).find('td').eq(3).text(index + 1);  // Update Sorting No field in the UI
+                post_order_no.push($(this).data("post-id"));
+                $(this).find('td').eq(3).text(index + 1); // Update Sorting No field
             });
 
-            // Debugging: Log the post_data before sending the AJAX request
-            console.log("Post Data to send:", post_data);
+            // Debug: Log the post_order_no before sending the AJAX request
+            console.log("Post Order IDs to send:", post_order_no);
 
             $.ajax({
                 url: "http://localhost/wbicad/wb-admin/ajax/update_fn.php", // URL of the server-side script
                 type: 'POST',
-                data: { post_data: post_data },
+                data: {post_order_no: post_order_no},
                 success: function(response) {
                     console.log("AJAX Response:", response); // Log the response from the server
                     if (response.success) {
-                        // location.reload();  // Refresh the page to reflect the changes
+                        //location.href = location.href;  // Refresh the page to reflect the changes
                         $(".alert-success").hide();
                         $(".alert-danger").show().text(response.message);
                     } else {
@@ -222,6 +206,7 @@ $(document).ready(function() {
         }
     });
 });
+
 
 
 

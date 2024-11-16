@@ -4,9 +4,9 @@
  */
 $get_post = $Common->get_post(NOTICE);
 // Sort notices by date in descending order
-usort($notices, function ($a, $b) {
-    return strtotime($b['date']) - strtotime($a['date']);
-});
+// usort($notices, function ($a, $b) {
+//     return strtotime($b['date']) - strtotime($a['date']);
+// });
 ?>
 
 <div class="row align-items-center">

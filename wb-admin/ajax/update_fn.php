@@ -13,13 +13,13 @@ header('Content-Type: application/json');
 
 $response = ['success' => false, 'message' => 'An error occurred'];
 
-if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['post_data'])) {
-    $post_data = $_POST['post_data'];
+if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['post_order_no'])) {
+    $post_order_no   = $_POST['post_order_no'];
 
-    // Debugging: Log the received post_data
-    file_put_contents('debug.log', "Received post_data: " . print_r($post_data, true) . "\n", FILE_APPEND);
+    // Debugging: Log the received post_order_no    
+    file_put_contents('debug.log', "Received post_order_no  : " . print_r($post_order_no  , true) . "\n", FILE_APPEND);
 
-    $dsn = 'mysql:host=localhost;dbname=wbicad_db'; // Example for local database
+    $dsn = 'mysql:host=localhost;dbname=wbicad_db'; // Database connection
     $username = 'root';
     $password = '';
 
@@ -27,36 +27,22 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['post_data'])) {
         $pdo = new PDO($dsn, $username, $password);
         $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-        // Start a transaction to ensure all updates are committed
-        $pdo->beginTransaction();
-
-        // Loop through the post data and update each post's details
-        foreach ($post_data as $post) {
-            // Prepare the SQL query to update the post data (title, category, date, etc.)
-            $stmt = $pdo->prepare("UPDATE " . EVENTS . " SET post_order_no = :order, title = :title, event_id = :event_id, created_date = :created_date, status = :status WHERE ID = :id");
+        // Loop through the post order IDs and update the database
+        foreach ($post_order_no  as $index => $id) {
+            $stmt = $pdo->prepare("UPDATE " . EVENTS . " SET post_order_no = :order WHERE ID = :id");
             $stmt->execute([
-                ':order' => $post['order'],  // New order number
-                ':title' => $post['title'],  // Title
-                ':event_id' => $post['event_id'],  // Event category
-                ':created_date' => $post['created_date'],  // Published date
-                ':status' => $post['status'],  // Status (Active/Deactive)
-                ':id' => $post['id']  // Post ID
+                ':order' => $index + 1,  // Use index + 1 for the order number
+                ':id' => $id
             ]);
 
-            // Debugging: Log the updated post details
-            file_put_contents('debug.log', "Updated ID: {$post['id']}, Order: {$post['order']}, Title: {$post['title']}\n", FILE_APPEND);
+            // Debugging: Log the updated ID and its new order number
+            file_put_contents('debug.log', "Updated ID: {$id}, New Order: " . ($index + 1) . "\n", FILE_APPEND);
         }
-
-        // Commit the transaction
-        $pdo->commit();
 
         // If everything went well
         $response['success'] = true;
-        $response['message'] = 'Posts updated successfully.';
+        $response['message'] = 'Order updated successfully.';
     } catch (PDOException $e) {
-        // In case of an error, rollback the transaction
-        $pdo->rollBack();
-
         // Log the error
         $response['message'] = 'Database error: ' . $e->getMessage();
         file_put_contents('debug.log', "Database error: " . $e->getMessage() . "\n", FILE_APPEND);
